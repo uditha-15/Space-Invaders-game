@@ -43,7 +43,7 @@ A classic arcade-style **Space Invaders** game built using **Pygame**, where you
 <img width="798" alt="Screenshot 2025-05-05 at 12 ![Screen Recording 2025-05-05 at 12 04 38 AM 2](https://github.com/user-attachments/assets/4b342561-f7a5-4fb7-b1bf-7b9836934980)
 03 50 AM" src="https://github.com/user-attachments/assets/d11c38e1-613e-46f9-a42d-5aec7a7c6bdc" />
 
-![Uploading Screen Recording 2025-05-05 at 12.04.38 AM 2.gif…]()
+<img src="https://github.com/user-attachments/assets/4b342561-f7a5-4fb7-b1bf-7b9836934980" width="798" alt="Screen Recording 2025-05-05 at 12:03 50 AM" />
 
   
 
